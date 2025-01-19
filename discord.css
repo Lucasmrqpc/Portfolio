@@ -1,0 +1,146 @@
+body {
+     display: flex;
+     height: 99vh;
+     background-color: #2451dc;
+    
+  background-image:linear-gradient(rgba(0, 0, 0, 0.158),rgba(58, 52, 116, 0.884)), url(Imagens/discfsafa.PNG);
+  
+   }
+   div {
+     width: 630px;
+     height: 350px;
+     background-color: #34343c;
+     margin: auto;
+     align-items: center;
+     text-align: center;
+     border-radius: 6px;
+
+   }
+   .b1 {
+     color: white;
+     font-size: 18px;
+     margin-right: 260px;
+     margin-top: 40px;
+     font-family:'Arial Narrow Bold', sans-serif;
+    
+   }
+   .b2 {
+     color: #c4c6c9b0;
+     font-size: 13px;
+     margin-right: 245px;
+     margin-top: -1px;
+     font-family:'Arial Narrow Bold', sans-serif;
+   }
+   .b3[type="text"] {
+     margin-right: 390px;
+     margin-top: 6px;
+     font-size: 11px;
+     background-color: #232325;
+     color: #c4c6c9;
+     font-family:'Arial Narrow Bold', sans-serif;
+   }
+
+   label {
+     margin-right: 410px;
+   margin-top: 20px;
+   font-size: 9px;
+        color:#d3d5d8d3;
+        font-family:'Arial Narrow Bold', sans-serif;
+       }
+   input[type="text"] {
+     margin-top: 20px;
+     margin-bottom: 30px;
+     margin-left: 31px;
+   width: 330px;
+   height: 23px;
+   border-radius: 5px;
+   border: none;
+   padding: 5px;
+   
+       }
+       input[type="password"] {
+         margin-right: 375px;
+        margin-top: 20px;
+        font-size: 11px;
+        color: whitesmoke;
+        width: 329px;
+   height: 23px;
+        margin-right: 225px;
+        margin-top: -80px;
+        border-radius: 5px;
+        padding: 5px;
+        border: none;
+        background-color: #232325;
+        color: #c4c6c9;
+       }
+       .button {
+         background-color: #5b64f3;
+         margin-right: 230px;
+         margin-top: 28px;
+         width: 335px;
+         height: 45px;
+         border-radius: 5px;
+         color: white;
+       }
+       a {
+         color: #06a8ea;
+         text-decoration: none; /* Remove o sublinhado */
+         margin-top: 20px;
+   
+       }
+       .b4{
+         margin-right: 370px;
+         margin-top: 4px;
+         font-size: 13px;
+         color: #c4c6c9a8;
+         text-decoration: none; /* Remove o sublinhado */
+   
+       }
+       .b5 {
+         margin-right: 520px;
+ margin-top: -10px; /* Ajustado para mover o texto para cima */
+ font-size: 11px;
+ margin-bottom: 20px;
+        
+       }
+       img {
+         height: 170px;
+   width: 170px;
+   margin-left: 110px;
+   margin-top: 25px;
+   position: absolute;
+}
+   .b6 {
+     margin-left: 400px;
+   margin-top: -120px;
+   font-size: 20px;
+   color: white;
+   font-family:'Arial Narrow Bold', sans-serif;
+   }
+   .b7 {
+     margin-left: 400px;
+   margin-top: -12px;
+   font-size: 12px;
+   color: #c2c3c5;
+   font-family:'Arial Narrow Bold', sans-serif;
+}
+   .b8 {
+     margin-left: 400px;
+   margin-top: -15px;
+   font-size: 13px;
+   text-decoration: none; /* Remove o sublinhado */
+ 
+   }
+   label[for="senha"] {
+     margin-top: -5px;
+   display: block;
+   margin-bottom: -5px;
+   margin-right: 530px;
+   font-size: 9px;
+}
+.b9{
+ margin-right: 460px;
+   margin-top: -85px;
+   font-size: 12px;
+   text-decoration: none;
+}
